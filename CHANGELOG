@@ -1,0 +1,5 @@
+2022.01.18 - Initialized the program. Created logic to find valid moves.
+2022.01.19 - Completed the program. Approximate runtime for a 5x5 grid is 10 seconds.
+2022.01.20 - Refactored the program to use different logic for calculating possible moves. This reduced runtime to 2.5 seconds.
+2022.01.25 - Add makefile.
+

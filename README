@@ -1,0 +1,11 @@
+The Knight's Tour problem implemented in C. Created by Patrick Demers.
+
+A 2D array is used to keep track of when each square is visited during a tour. A 1D array is also used to keep track of the order each square is visited. The data in these arrays is duplicated, but it allows for speedier access when attempting to print a grid or tour.
+
+When a valid route is found, it is printed to the specified output file.
+
+Extra:
+- Supports any square sized grid. Specified by constant N.
+- Prints grid that shows when each square was visited. A constant exists that allows for enabling this. When enabled, the grids are printed to stdout.
+
+
